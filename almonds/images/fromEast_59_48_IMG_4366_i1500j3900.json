@@ -1,0 +1,39 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8674303059,
+      "width": 300,
+      "height": 300,
+      "file_name": "fromEast_59_48_IMG_4366_i1500j3900.png",
+      "size": 196398,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "almond",
+      "supercategory": "almond"
+    }
+  ]
+}

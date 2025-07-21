@@ -1,0 +1,39 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6554639759,
+      "width": 300,
+      "height": 300,
+      "file_name": "fromWest_59_31_IMG_4693_i0j2100.png",
+      "size": 205325,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "almond",
+      "supercategory": "almond"
+    }
+  ]
+}
