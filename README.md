@@ -43,22 +43,25 @@ High-quality orchard imagery for fruit detection and instance recognition across
 ```
 acfr-multifruit-2016/
 ├── almonds/
-│   ├── annotations/           # CSV per image
-│   ├── images/                # PNG images
+│   ├── csv/                   # CSV per image
+│   ├── json/                  # JSON per image
+│   ├── images/                # PNG/JPG images
 │   ├── labelmap.json
-│   └── sets/                  # train.txt / val.txt / test.txt
+│   └── sets/                  # train.txt / val.txt / test.txt (plus all.txt, train_val.txt)
 ├── apples/
-│   ├── annotations/           # CSV per image (circles)
+│   ├── csv/                   # CSV per image (circles: x, y, r)
+│   ├── json/                  # JSON per image (optional)
 │   ├── images/
 │   ├── labelmap.json
 │   ├── segmentations/         # PNG masks (apples only)
 │   └── sets/
 ├── mangoes/
-│   ├── annotations/
+│   ├── csv/
+│   ├── json/
 │   ├── images/
 │   ├── labelmap.json
 │   └── sets/
-├── annotations/               # COCO JSON output
+├── annotations/               # COCO JSON output (generated)
 ├── scripts/
 │   └── convert_to_coco.py     # conversion utility
 └── README.md
@@ -98,7 +101,7 @@ Below are example images for each fruit category in this dataset. Paths are rela
 </table>
 
 ## Annotation schema
-- CSV per-image schemas:
+- CSV per-image schemas (stored under each fruit's `csv/` folder):
   - Apples (circles): columns include `x, y, r` (radius in pixels). Converted to COCO bbox `[x-r, y-r, 2r, 2r]`.
   - Mangoes/Almonds (rectangles): columns include `x, y, w, h` or `dx, dy` or `width, height`.
 - COCO-style (generated):

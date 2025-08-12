@@ -205,7 +205,7 @@ def _collect_annotations_for_split(
     """
 
     images_dir = fruit_root / "images"
-    annotations_dir = fruit_root / "annotations"
+    annotations_dir = fruit_root / "csv"
     sets_dir = fruit_root / "sets"
 
     split_file = sets_dir / f"{split}.txt"
