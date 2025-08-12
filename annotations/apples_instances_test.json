@@ -1,0 +1,691 @@
+{
+  "info": {
+    "year": 2016,
+    "version": "1.0.0",
+    "description": "ACFR 2016 apples test split",
+    "url": "https://data.acfr.usyd.edu.au/ag/treecrops/2016-multifruit/"
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "apples/images/20130320T004351.801805.Cam6_43.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 2,
+      "file_name": "apples/images/20130320T004354.277980.Cam6_41.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 3,
+      "file_name": "apples/images/20130320T004416.754705.Cam6_52.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 4,
+      "file_name": "apples/images/20130320T004417.897603.Cam6_33.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 5,
+      "file_name": "apples/images/20130320T004418.849875.Cam6_21.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 6,
+      "file_name": "apples/images/20130320T004423.611969.Cam6_33.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 7,
+      "file_name": "apples/images/20130320T004432.183517.Cam6_31.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 8,
+      "file_name": "apples/images/20130320T004432.755029.Cam6_44.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 9,
+      "file_name": "apples/images/20130320T004528.184672.Cam6_11.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 10,
+      "file_name": "apples/images/20130320T004548.375606.Cam6_41.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 11,
+      "file_name": "apples/images/20130320T004555.042372.Cam6_52.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 12,
+      "file_name": "apples/images/20130320T004556.375774.Cam6_31.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 13,
+      "file_name": "apples/images/20130320T004609.899802.Cam6_51.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 14,
+      "file_name": "apples/images/20130320T004610.471314.Cam6_34.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 15,
+      "file_name": "apples/images/20130320T004628.566938.Cam6_52.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 16,
+      "file_name": "apples/images/20130320T004739.806547.Cam6_64.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 17,
+      "file_name": "apples/images/20130320T004758.092540.Cam6_31.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 18,
+      "file_name": "apples/images/20130320T004803.045018.Cam6_32.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 19,
+      "file_name": "apples/images/20130320T004806.092707.Cam6_21.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 20,
+      "file_name": "apples/images/20130320T004846.855554.Cam6_74.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 21,
+      "file_name": "apples/images/20130320T004850.284127.Cam6_61.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 22,
+      "file_name": "apples/images/20130320T004859.617697.Cam6_61.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 23,
+      "file_name": "apples/images/20130320T004904.951059.Cam6_54.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 24,
+      "file_name": "apples/images/20130320T004905.332067.Cam6_72.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 25,
+      "file_name": "apples/images/20130320T004908.379757.Cam6_54.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 26,
+      "file_name": "apples/images/20130320T004909.713159.Cam6_42.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 27,
+      "file_name": "apples/images/20130320T004910.284546.Cam6_21.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 28,
+      "file_name": "apples/images/20130320T004910.856060.Cam6_61.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 29,
+      "file_name": "apples/images/20130320T004914.094128.Cam6_51.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 30,
+      "file_name": "apples/images/20130320T004931.427860.Cam6_63.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 31,
+      "file_name": "apples/images/20130320T004936.380337.Cam6_44.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 32,
+      "file_name": "apples/images/20130320T005025.333719.Cam6_43.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 33,
+      "file_name": "apples/images/20130320T005030.095692.Cam6_44.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 34,
+      "file_name": "apples/images/20130320T005032.000483.Cam6_24.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 35,
+      "file_name": "apples/images/20130320T005039.429263.Cam6_64.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 36,
+      "file_name": "apples/images/20130320T005040.000648.Cam6_23.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 37,
+      "file_name": "apples/images/20130320T005049.524720.Cam6_33.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 38,
+      "file_name": "apples/images/20130320T005055.048585.Cam6_63.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 39,
+      "file_name": "apples/images/20130320T005055.620097.Cam6_52.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 40,
+      "file_name": "apples/images/20130320T005102.286861.Cam6_63.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 41,
+      "file_name": "apples/images/20130320T005122.477772.Cam6_64.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 42,
+      "file_name": "apples/images/20130320T005134.287508.Cam6_32.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 43,
+      "file_name": "apples/images/20130320T005222.478990.Cam6_22.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 44,
+      "file_name": "apples/images/20130320T005227.621969.Cam6_61.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 45,
+      "file_name": "apples/images/20130320T005229.526758.Cam6_63.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 46,
+      "file_name": "apples/images/20130320T005232.193440.Cam6_32.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 47,
+      "file_name": "apples/images/20130320T005234.860121.Cam6_64.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 48,
+      "file_name": "apples/images/20130320T005247.050874.Cam6_22.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 49,
+      "file_name": "apples/images/20130320T005250.479567.Cam6_54.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 50,
+      "file_name": "apples/images/20130320T005305.337000.Cam6_41.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 51,
+      "file_name": "apples/images/20130320T005316.765861.Cam6_44.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 52,
+      "file_name": "apples/images/20130320T005323.051613.Cam6_21.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 53,
+      "file_name": "apples/images/20130320T005326.289805.Cam6_63.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 54,
+      "file_name": "apples/images/20130320T005440.957969.Cam6_62.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 55,
+      "file_name": "apples/images/20130320T005444.196159.Cam6_24.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 56,
+      "file_name": "apples/images/20130320T005445.910443.Cam6_61.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 57,
+      "file_name": "apples/images/20130320T005446.672459.Cam6_11.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 58,
+      "file_name": "apples/images/20130320T005448.958130.Cam6_63.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 59,
+      "file_name": "apples/images/20130320T005459.434598.Cam6_12.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 60,
+      "file_name": "apples/images/20130320T005609.150300.Cam6_12.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 61,
+      "file_name": "apples/images/20130320T005626.674536.Cam6_13.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 62,
+      "file_name": "apples/images/20130320T005656.770409.Cam6_14.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 63,
+      "file_name": "apples/images/20130320T005658.294191.Cam6_13.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 64,
+      "file_name": "apples/images/20130320T005731.818637.Cam6_62.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 65,
+      "file_name": "apples/images/20130320T005733.152039.Cam6_24.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 66,
+      "file_name": "apples/images/20130320T005733.723551.Cam6_21.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 67,
+      "file_name": "apples/images/20130320T005736.199727.Cam6_62.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 68,
+      "file_name": "apples/images/20130320T005744.390397.Cam6_63.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 69,
+      "file_name": "apples/images/20130320T005746.104680.Cam6_43.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 70,
+      "file_name": "apples/images/20130320T005746.866695.Cam6_22.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 71,
+      "file_name": "apples/images/20130320T005752.961946.Cam6_22.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 72,
+      "file_name": "apples/images/20130320T005753.723961.Cam6_33.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 73,
+      "file_name": "apples/images/20130320T005803.057403.Cam6_31.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 74,
+      "file_name": "apples/images/20130320T005809.533784.Cam6_12.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 75,
+      "file_name": "apples/images/20130320T005903.439636.Cam6_42.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 76,
+      "file_name": "apples/images/20130320T005915.820761.Cam6_42.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 77,
+      "file_name": "apples/images/20130320T005923.440043.Cam6_32.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 78,
+      "file_name": "apples/images/20130320T005944.392853.Cam6_32.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 79,
+      "file_name": "apples/images/20130320T005945.726255.Cam6_44.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 80,
+      "file_name": "apples/images/20130320T005947.821546.Cam6_21.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 81,
+      "file_name": "apples/images/20130320T005950.107217.Cam6_44.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 82,
+      "file_name": "apples/images/20130320T012819.666108_22.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 83,
+      "file_name": "apples/images/20130320T012829.571055_32.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 84,
+      "file_name": "apples/images/20130320T012838.904617_43.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 85,
+      "file_name": "apples/images/20130320T012839.857012_32.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 86,
+      "file_name": "apples/images/20130320T012853.190533_22.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 87,
+      "file_name": "apples/images/20130320T012855.857338_42.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 88,
+      "file_name": "apples/images/20130320T012904.809896_22.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 89,
+      "file_name": "apples/images/20130320T012913.000437_23.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 90,
+      "file_name": "apples/images/20130320T012941.953391_42.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 91,
+      "file_name": "apples/images/20130320T013023.668642_21.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 92,
+      "file_name": "apples/images/20130320T013025.382928_32.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 93,
+      "file_name": "apples/images/20130320T013029.764019_22.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 94,
+      "file_name": "apples/images/20130320T013047.288125_23.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 95,
+      "file_name": "apples/images/20130320T013054.907398_24.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 96,
+      "file_name": "apples/images/20130320T013101.574161_42.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 97,
+      "file_name": "apples/images/20130320T013128.812851_32.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 98,
+      "file_name": "apples/images/20130320T013151.289437_13.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 99,
+      "file_name": "apples/images/20130320T013152.051327_43.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 100,
+      "file_name": "apples/images/20130320T013250.719271_31.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 101,
+      "file_name": "apples/images/20130320T013327.672391_43.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 102,
+      "file_name": "apples/images/20130320T013339.291634_53.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 103,
+      "file_name": "apples/images/20130320T013443.864444_62.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 104,
+      "file_name": "apples/images/20130320T013459.864773_41.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 105,
+      "file_name": "apples/images/20130320T013518.531770_42.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 106,
+      "file_name": "apples/images/20130320T013523.674751_54.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 107,
+      "file_name": "apples/images/20130320T013606.151743_11.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 108,
+      "file_name": "apples/images/20130320T013606.913636_31.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 109,
+      "file_name": "apples/images/20130320T013607.675649_53.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 110,
+      "file_name": "apples/images/20130320T013609.580437_31.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 111,
+      "file_name": "apples/images/20130320T013612.247116_31.png",
+      "width": 308,
+      "height": 202
+    },
+    {
+      "id": 112,
+      "file_name": "apples/images/20130320T013711.486456_54.png",
+      "width": 308,
+      "height": 202
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple",
+      "supercategory": "fruit"
+    }
+  ],
+  "licenses": []
+}
