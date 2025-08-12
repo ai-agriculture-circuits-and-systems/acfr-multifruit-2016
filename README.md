@@ -1,5 +1,6 @@
 # ACFR Multifruit Dataset 2016
 
+[![DOI](https://img.shields.io/badge/DOI-pending-lightgrey)](#citation) 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](#changelog)
 
@@ -9,8 +10,11 @@ High-quality orchard imagery for fruit detection and instance recognition across
 
 ## TL;DR
 - Task: detection (+ segmentation for apples)
-- Modality: RGB • Platform: ground • Real/Synthetic: real
-- Images: Apples 1,120 • Mangoes 1,964 • Almonds 620 • Resolution: 308×202 (apples/almonds), 500×500 (mangoes)
+- Modality: RGB 
+- Platform: ground 
+- Real/Synthetic: real
+- Images: Apples 1,120; Mangoes 1,964; Almonds 620 
+- Resolution: 308×202 (apples/almonds), 500×500 (mangoes)
 - Annotations: per-image CSV (x,y,r or x,y,w,h); apples include per-pixel masks
 - License: CC BY-NC 4.0 (see License)
 - Citation: see below
@@ -176,7 +180,7 @@ python -m pip install pycocotools
 ```
 
 ## Changelog
-- v1.0.0: initial structure and COCO conversion utility
+- V1.0.0: initial structure and COCO conversion utility
 
 ## Contact
 - Maintainers: Open to contributions via issue tracker.
