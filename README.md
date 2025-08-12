@@ -1,6 +1,7 @@
 # ACFR Multifruit Dataset 2016
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](#changelog)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](#changelog)
 
 High-quality orchard imagery for fruit detection and instance recognition across apples, mangoes, and almonds. Suitable for object detection, segmentation (apples), and yield-estimation experiments.
 
