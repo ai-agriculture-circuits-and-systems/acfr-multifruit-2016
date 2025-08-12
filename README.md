@@ -15,19 +15,19 @@ High-quality orchard imagery for fruit detection and instance recognition across
 - License: CC BY-NC 4.0 (see License)
 - Citation: see below
 
-## What's inside
-- Download
-- Dataset structure
-- Annotation schema
-- Stats and splits
-- Quick start
-- Evaluation and baselines
-- Datasheet (data card)
-- Known issues and caveats
-- License
-- Citation
-- Changelog
-- Contact
+## Table of contents
+- [Download](#download)
+- [Dataset structure](#dataset-structure)
+- [Annotation schema](#annotation-schema)
+- [Stats and splits](#stats-and-splits)
+- [Quick start](#quick-start)
+- [Evaluation and baselines](#evaluation-and-baselines)
+- [Datasheet (data card)](#datasheet-data-card)
+- [Known issues and caveats](#known-issues-and-caveats)
+- [License](#license)
+- [Citation](#citation)
+- [Changelog](#changelog)
+- [Contact](#contact)
 
 ## Download
 - Original dataset: `https://data.acfr.usyd.edu.au/ag/treecrops/2016-multifruit/`
