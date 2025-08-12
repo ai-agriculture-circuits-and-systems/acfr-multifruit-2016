@@ -18,6 +18,7 @@ High-quality orchard imagery for fruit detection and instance recognition across
 ## Table of contents
 - [Download](#download)
 - [Dataset structure](#dataset-structure)
+- [Sample images](#sample-images)
 - [Annotation schema](#annotation-schema)
 - [Stats and splits](#stats-and-splits)
 - [Quick start](#quick-start)
@@ -59,6 +60,38 @@ acfr-multifruit-2016/
 └── README.md
 ```
 - Splits: `sets/train.txt`, `sets/val.txt`, `sets/test.txt` (and also `all.txt`, `train_val.txt`) list image basenames (no extension). If missing, all images are used.
+
+## Sample images
+
+Below are example images for each fruit category in this dataset. Paths are relative to this README location.
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <td><strong>Apple</strong></td>
+    <td>
+      <img src="apples/images/20130320T004348.182606.Cam6_54.png" alt="Apple example" width="260"/>
+      <div align="center"><code>apples/images/20130320T004348.182606.Cam6_54.png</code></div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mango</strong></td>
+    <td>
+      <img src="mangoes/images/20151124T024327.193809_i1590j799.png" alt="Mango example" width="260"/>
+      <div align="center"><code>mangoes/images/20151124T024327.193809_i1590j799.png</code></div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Almond</strong></td>
+    <td>
+      <img src="almonds/images/fromEast_56_04_IMG_4328_i900j3600.png" alt="Almond example" width="260"/>
+      <div align="center"><code>almonds/images/fromEast_56_04_IMG_4328_i900j3600.png</code></div>
+    </td>
+  </tr>
+</table>
 
 ## Annotation schema
 - CSV per-image schemas:
